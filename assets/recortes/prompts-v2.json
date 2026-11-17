@@ -1,0 +1,12 @@
+[
+  {
+    "asset": "pinwi-esquimal-nuez.png",
+    "tool": "ImageGen integrado",
+    "prompt": "Use case: background-extraction. Edit target: this exact chocolate-and-walnut esquimal ice cream bar photograph. Remove only the mustard/beige background, surface and cast shadow, replacing them with genuine transparent alpha. Preserve the full original chocolate ice cream bar, all chunky walnut pieces and craggy nut coating, the wooden stick, the photographic texture, original proportions, color and frontal viewing angle. Center the whole product vertically with modest padding. No redesign, no smoothing the walnut coating, no extra text or logo, no other objects. This cutout will represent the Esquimales family on a Mexican Pinwi ice cream website."
+  },
+  {
+    "asset": "pinwi-bollo-oreo-v2.png",
+    "tool": "ImageGen integrado",
+    "prompt": "Use case: background-extraction. Asset: transparent photographic product cutout for a Pinwi website. In the reference photograph, isolate ONE actual Oreo bollo, choosing the plump bag in the foreground, and remove all the other products, cookie boxes, plates and background. Present this ONE product upright vertically with the entire wrapper visible. Preserve the real bollo identity: a short wide soft pillow-shaped transparent plastic bag filled with white cookies-and-cream frozen dessert with visible dark Oreo chunks, slightly squared or pinched heat-sealed bag ends, realistic crinkles and frost, and the existing small pink-and-blue Oreo sticker from the reference. Faithfully keep the source product's width-to-height proportions around 0.5 to 0.6; do not stretch it into a long thin cylinder. It must look like a genuine Mexican frozen bollo in its soft sealed bag, not a bottle, popsicle, sausage, jar or a fabricated 3D render. No wooden stick. Use realistic photography and neutral soft lighting. Actual transparent alpha outside the precise product silhouette, no background haze, no cast shadow, no additional text, no invented branding. Center the product with modest padding."
+  }
+]
