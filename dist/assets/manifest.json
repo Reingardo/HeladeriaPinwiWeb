@@ -1,0 +1,452 @@
+[
+  {
+    "file": "assets/images/family-0.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 80298
+  },
+  {
+    "file": "assets/images/family-1.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 193690
+  },
+  {
+    "file": "assets/images/family-2.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 158176
+  },
+  {
+    "file": "assets/images/family-3.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 181384
+  },
+  {
+    "file": "assets/images/family-4.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 41810
+  },
+  {
+    "file": "assets/images/family-5.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 49026
+  },
+  {
+    "file": "assets/images/family-6.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 28212
+  },
+  {
+    "file": "assets/images/package-0.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 233580
+  },
+  {
+    "file": "assets/images/package-1.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 202690
+  },
+  {
+    "file": "assets/images/package-2.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 157894
+  },
+  {
+    "file": "assets/images/package-3.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 173408
+  },
+  {
+    "file": "assets/images/package-4.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 179144
+  },
+  {
+    "file": "assets/images/ingredient-0.svg",
+    "source": "Existing embedded artwork",
+    "bytes": 257
+  },
+  {
+    "file": "assets/images/ingredient-1.svg",
+    "source": "Existing embedded artwork",
+    "bytes": 425
+  },
+  {
+    "file": "assets/images/ingredient-2.svg",
+    "source": "Existing embedded artwork",
+    "bytes": 327
+  },
+  {
+    "file": "assets/images/ingredient-3.svg",
+    "source": "Existing embedded artwork",
+    "bytes": 260
+  },
+  {
+    "file": "assets/images/ingredient-4.svg",
+    "source": "Existing embedded artwork",
+    "bytes": 319
+  },
+  {
+    "file": "assets/images/brand-382a86973d8e.webp",
+    "source": "Existing embedded artwork",
+    "bytes": 36992
+  },
+  {
+    "file": "assets/images/catalog-95dc82a8cbbc.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/boli-mango-chile.jpg.webp",
+    "bytes": 48668
+  },
+  {
+    "file": "assets/images/catalog-c8468c2278c8.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/boli-tamarindo.jpg.webp",
+    "bytes": 12812
+  },
+  {
+    "file": "assets/images/catalog-c48deef56e24.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bolischicle.jpg.webp",
+    "bytes": 66508
+  },
+  {
+    "file": "assets/images/catalog-63c98409070a.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bolisfresa.jpg.webp",
+    "bytes": 60000
+  },
+  {
+    "file": "assets/images/catalog-34a623386b8b.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollo-coco.jpg.webp",
+    "bytes": 50302
+  },
+  {
+    "file": "assets/images/catalog-eb6da2731181.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollo-duvalin-actualizado.webp",
+    "bytes": 63314
+  },
+  {
+    "file": "assets/images/catalog-13885814377d.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollobubulubu.jpg.webp",
+    "bytes": 97586
+  },
+  {
+    "file": "assets/images/catalog-c527050772d5.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollochocorol.jpg.webp",
+    "bytes": 74176
+  },
+  {
+    "file": "assets/images/catalog-0173e3713a85.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollofresacrema.jpg.webp",
+    "bytes": 58128
+  },
+  {
+    "file": "assets/images/catalog-7ece81b94775.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollogansito.jpg.webp",
+    "bytes": 74308
+  },
+  {
+    "file": "assets/images/catalog-1f3f3b2664c9.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollomangochamoy.jpg.webp",
+    "bytes": 76950
+  },
+  {
+    "file": "assets/images/catalog-3526bc6dda02.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollomasapan.jpg.webp",
+    "bytes": 66526
+  },
+  {
+    "file": "assets/images/catalog-9e6baa2b4b32.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollonutela.jpg.webp",
+    "bytes": 73484
+  },
+  {
+    "file": "assets/images/catalog-d04a4e08bbba.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollooreo.jpg.webp",
+    "bytes": 77670
+  },
+  {
+    "file": "assets/images/catalog-aceb6295ba0c.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollopaylimon.jpg.webp",
+    "bytes": 84564
+  },
+  {
+    "file": "assets/images/catalog-8a8afeced45c.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollopicafresa.jpg.webp",
+    "bytes": 94642
+  },
+  {
+    "file": "assets/images/catalog-c5de56eb6a49.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/bollopinguino.jpg.webp",
+    "bytes": 118790
+  },
+  {
+    "file": "assets/images/catalog-cdf2792a678e.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-0.webp",
+    "bytes": 39528
+  },
+  {
+    "file": "assets/images/catalog-331b7ca05cfa.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-1.webp",
+    "bytes": 37006
+  },
+  {
+    "file": "assets/images/catalog-a5cc65027179.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-10.webp",
+    "bytes": 29482
+  },
+  {
+    "file": "assets/images/catalog-e0b3ece0ead2.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-2.webp",
+    "bytes": 38064
+  },
+  {
+    "file": "assets/images/catalog-66f88a6088b8.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-3.webp",
+    "bytes": 36146
+  },
+  {
+    "file": "assets/images/catalog-b8d29e0ca14f.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-4.webp",
+    "bytes": 21994
+  },
+  {
+    "file": "assets/images/catalog-aba676961523.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-5.webp",
+    "bytes": 27052
+  },
+  {
+    "file": "assets/images/catalog-8436a3db8423.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-6.webp",
+    "bytes": 26532
+  },
+  {
+    "file": "assets/images/catalog-7ed94d45b14a.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-7.webp",
+    "bytes": 17000
+  },
+  {
+    "file": "assets/images/catalog-bf54c6c11fad.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-8.webp",
+    "bytes": 37508
+  },
+  {
+    "file": "assets/images/catalog-2cf98d555e38.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-artesanal-9.webp",
+    "bytes": 35980
+  },
+  {
+    "file": "assets/images/catalog-a26686d8d068.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ba-0.png.webp",
+    "bytes": 106002
+  },
+  {
+    "file": "assets/images/catalog-005cf15be52d.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ba-1.png.webp",
+    "bytes": 83216
+  },
+  {
+    "file": "assets/images/catalog-1f9ece255067.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ba-2.png.webp",
+    "bytes": 127226
+  },
+  {
+    "file": "assets/images/catalog-edb44003e337.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ba-3.png.webp",
+    "bytes": 153640
+  },
+  {
+    "file": "assets/images/catalog-fb7f002264c1.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ba-6.png.webp",
+    "bytes": 138572
+  },
+  {
+    "file": "assets/images/catalog-ec233798de9b.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ba-7.png.webp",
+    "bytes": 145250
+  },
+  {
+    "file": "assets/images/catalog-5d93b754a1c5.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-bl-0.png.webp",
+    "bytes": 63076
+  },
+  {
+    "file": "assets/images/catalog-f369af9ce94a.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-bl-1.png.webp",
+    "bytes": 62424
+  },
+  {
+    "file": "assets/images/catalog-f6dcfe78e952.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-bl-4.png.webp",
+    "bytes": 103580
+  },
+  {
+    "file": "assets/images/catalog-7310625e3182.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-bl-5.png.webp",
+    "bytes": 72258
+  },
+  {
+    "file": "assets/images/catalog-547c2cc6aa5e.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-bl-6.png.webp",
+    "bytes": 62764
+  },
+  {
+    "file": "assets/images/catalog-13a1990977c2.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-bl-7.png.webp",
+    "bytes": 88914
+  },
+  {
+    "file": "assets/images/catalog-1e156ef30ef4.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-bl-8.png.webp",
+    "bytes": 79558
+  },
+  {
+    "file": "assets/images/catalog-0657014657c7.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-esquimal-chispitas.webp",
+    "bytes": 52552
+  },
+  {
+    "file": "assets/images/catalog-8c165ef8737e.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-esquimal-clasico.webp",
+    "bytes": 14854
+  },
+  {
+    "file": "assets/images/catalog-b5290d51b5b2.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-esquimal-coco.webp",
+    "bytes": 54940
+  },
+  {
+    "file": "assets/images/catalog-6eab589784ef.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-esquimal-nuez.webp",
+    "bytes": 51922
+  },
+  {
+    "file": "assets/images/catalog-24b49bf30dfc.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ni-0.png.webp",
+    "bytes": 34096
+  },
+  {
+    "file": "assets/images/catalog-ebeea74f318a.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ni-1.png.webp",
+    "bytes": 29038
+  },
+  {
+    "file": "assets/images/catalog-4d4c6339a318.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ni-2.png.webp",
+    "bytes": 25654
+  },
+  {
+    "file": "assets/images/catalog-d7cd932eb192.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ni-3.png.webp",
+    "bytes": 38152
+  },
+  {
+    "file": "assets/images/catalog-b81bbcbb3a23.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ni-4.png.webp",
+    "bytes": 39308
+  },
+  {
+    "file": "assets/images/catalog-014acf349d68.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ni-5.png.webp",
+    "bytes": 42378
+  },
+  {
+    "file": "assets/images/catalog-a1d3f60be84a.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-ni-6.png.webp",
+    "bytes": 21066
+  },
+  {
+    "file": "assets/images/catalog-81c78af38763.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-0.webp",
+    "bytes": 39176
+  },
+  {
+    "file": "assets/images/catalog-a3d07fc16988.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-1.webp",
+    "bytes": 24874
+  },
+  {
+    "file": "assets/images/catalog-c564ea9d9100.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-2.webp",
+    "bytes": 37732
+  },
+  {
+    "file": "assets/images/catalog-61dcebcfb55d.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-3.webp",
+    "bytes": 24200
+  },
+  {
+    "file": "assets/images/catalog-6827b78e6fa6.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-4.webp",
+    "bytes": 37404
+  },
+  {
+    "file": "assets/images/catalog-31e1cb934c49.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-5.webp",
+    "bytes": 22894
+  },
+  {
+    "file": "assets/images/catalog-b09dafadcead.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-6.webp",
+    "bytes": 38222
+  },
+  {
+    "file": "assets/images/catalog-ae67b6daf41a.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-7.webp",
+    "bytes": 37484
+  },
+  {
+    "file": "assets/images/catalog-c918557e29a7.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pa-8.webp",
+    "bytes": 28852
+  },
+  {
+    "file": "assets/images/catalog-184c39e7f7df.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-0.webp",
+    "bytes": 24766
+  },
+  {
+    "file": "assets/images/catalog-010548f8e81b.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-1.webp",
+    "bytes": 22320
+  },
+  {
+    "file": "assets/images/catalog-043ebf0e45e7.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-2.webp",
+    "bytes": 38536
+  },
+  {
+    "file": "assets/images/catalog-39245da6416c.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-3.webp",
+    "bytes": 14424
+  },
+  {
+    "file": "assets/images/catalog-7a9c4a3a1094.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-4.webp",
+    "bytes": 20934
+  },
+  {
+    "file": "assets/images/catalog-afe6b946f506.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-5.webp",
+    "bytes": 37788
+  },
+  {
+    "file": "assets/images/catalog-235ab145ced8.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-6.webp",
+    "bytes": 20012
+  },
+  {
+    "file": "assets/images/catalog-c316804d1bfc.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-7.webp",
+    "bytes": 20044
+  },
+  {
+    "file": "assets/images/catalog-487ddc2bb0b2.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/generado-paleta-pl-8.webp",
+    "bytes": 16514
+  },
+  {
+    "file": "assets/images/catalog-c0a0e9606440.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/sucursal-jardin.png.webp",
+    "bytes": 40516
+  },
+  {
+    "file": "assets/images/catalog-e76bd4327ecc.webp",
+    "source": "https://sitio-pinwi.vercel.app/assets/sucursal-unidad-editada.png.webp",
+    "bytes": 48232
+  }
+]
