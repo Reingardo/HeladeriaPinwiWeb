@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heladeriapinwiweb.vercel.app/sitemap.xml
